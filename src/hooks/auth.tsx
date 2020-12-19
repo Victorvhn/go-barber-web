@@ -5,7 +5,7 @@ import api from '../services/api';
 interface IUser {
   id: string;
   name: string;
-  avatarUrl: string;
+  avatar_url: string;
 }
 
 interface AuthState {
